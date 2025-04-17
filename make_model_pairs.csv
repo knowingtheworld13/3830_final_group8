@@ -1,0 +1,458 @@
+make,model
+Acura,RDX
+Acura,RLX
+Acura,TL
+Audi,A4
+Audi,A5
+Audi,A6
+Audi,Q5
+Audi,Q7
+Audi,S6
+Audi,S7
+BMW,3-Series
+BMW,4-Series
+BMW,X1
+BMW,X3
+BMW,X5
+Buick,Enclave
+Buick,Encore
+Buick,Verano
+Cadillac,ATS
+Cadillac,CTS Sedan
+Cadillac,Escalade
+Cadillac,SRX
+Chevrolet,Camaro
+Chevrolet,Corvette
+Chevrolet,Cruze
+Chevrolet,Equinox
+Chevrolet,Impala
+Chevrolet,Silverado 1500
+Chevrolet,Silverado 2500
+Chevrolet,Silverado 3500
+Chevrolet,Sonic
+Chevrolet,Traverse
+Chevrolet,Trax
+Chrysler,200
+Chrysler,300
+Chrysler,Town & Country
+Dodge,Challenger
+Dodge,Charger
+Dodge,Dart
+Dodge,Durango
+Dodge,Grand Caravan
+Dodge,Journey
+Fiat,500
+Fiat,500L
+Ford,E150 Vans
+Ford,E350 Vans
+Ford,Edge
+Ford,Escape
+Ford,Expedition Max
+Ford,Explorer
+Ford,F150
+Ford,F250 S/D
+Ford,F350 S/D
+Ford,Fiesta
+Ford,Flex
+Ford,Focus
+Ford,Fusion
+Ford,Mustang
+Ford,Taurus
+Ford,Transit Connect
+GMC,Acadia
+GMC,Savana Cargo
+GMC,Sierra 1500
+GMC,Sierra 2500
+GMC,Sierra 3500
+GMC,Terrain
+GMC,Yukon XL 1500
+Honda,Accord
+Honda,CR-V
+Honda,Civic
+Honda,Fit
+Honda,Odyssey
+Honda,Pilot
+Hyundai,Accent
+Hyundai,Elantra
+Hyundai,Elantra GT
+Hyundai,Santa Fe Sport
+Hyundai,Santa Fe XL
+Hyundai,Sonata
+Hyundai,Tucson
+Hyundai,Veloster
+Infiniti,Q50
+Infiniti,QX50
+Infiniti,QX60
+Infiniti,QX80
+Jaguar,F-Type
+Jeep,Cherokee
+Jeep,Compass
+Jeep,Grand Cherokee
+Jeep,Patriot
+Jeep,Wrangler
+Kia,Forte
+Kia,Optima
+Kia,Rio
+Kia,Rondo
+Kia,Sorento
+Kia,Soul
+Kia,Sportage
+Land Rover,Range Rover Evoque
+Land Rover,Range Rover Sport
+Lexus,ES300h
+Lexus,IS-Series
+Lincoln,MKX
+Lincoln,Navigator
+Maserati,Ghibli
+Mazda,CX-5
+Mazda,Mazda3
+Mazda,Mazda6
+Mercedes-Benz,B-Class
+Mercedes-Benz,C-Class
+Mercedes-Benz,CLA-Class
+Mercedes-Benz,CLS-Class
+Mercedes-Benz,E-Class
+Mercedes-Benz,GLK-Class
+Mercedes-Benz,M-Class
+Mini,Countryman
+Mini,Hatchback
+Mini,Paceman
+Mitsubishi,Lancer
+Mitsubishi,Mirage
+Mitsubishi,Outlander
+Mitsubishi,RVR
+Mitsubishi,i-MiEV
+Nissan,370Z
+Nissan,Altima
+Nissan,Frontier
+Nissan,Juke
+Nissan,Murano
+Nissan,NV 3500 Van
+Nissan,Pathfinder
+Nissan,Rogue
+Nissan,Sentra
+Nissan,Titan
+Nissan,Versa
+Nissan,Versa Note
+Porsche,Cayenne
+Ram,1500
+Ram,2500
+Ram,3500
+Ram,ProMaster
+Subaru,Forester
+Subaru,Impreza
+Subaru,Outback
+Subaru,XV Crosstrek
+Toyota,4Runner
+Toyota,Camry
+Toyota,Corolla
+Toyota,Highlander
+Toyota,Matrix
+Toyota,Prius V
+Toyota,Rav4
+Toyota,Sequoia
+Toyota,Sienna
+Toyota,Tacoma
+Toyota,Tundra
+Toyota,Venza
+Toyota,Yaris
+Volkswagen,Beetle
+Volkswagen,Golf
+Volkswagen,Jetta
+Volkswagen,Passat
+Volkswagen,Tiguan
+Volkswagen,Touareg
+Acura,MDX
+Acura,TLX
+Alfa Romeo,4C
+Audi,A3
+Audi,Q3
+Audi,S4
+Audi,SQ5
+BMW,2-Series
+BMW,5-Series
+BMW,6-Series
+BMW,X4
+BMW,X6
+Cadillac,ATS Coupe
+Cadillac,ATS Sedan
+Cadillac,XTS
+Chevrolet,Colorado
+Chevrolet,Express Cargo
+Chevrolet,Malibu
+Chevrolet,Spark
+Chevrolet,Suburban
+Chevrolet,Tahoe
+Chevrolet,Volt
+Ford,CMax
+Ford,Expedition
+Ford,Transit 250
+GMC,Canyon
+GMC,Savana
+GMC,Yukon
+GMC,Yukon XL
+Hyundai,Genesis Coupe
+Hyundai,Genesis Sedan
+Jaguar,XF
+Jeep,Renegade
+Kia,Sedona
+Land Rover,Discovery Sport
+Lexus,NX 200t
+Lexus,NX 300h
+Lexus,RC 350
+Lexus,RC F
+Lexus,RX350
+Lincoln,MKC
+Lincoln,MKS
+Mazda,CX-9
+Mazda,Mazda5
+Mercedes-Benz,GL-Class
+Mercedes-Benz,GLA-Class
+Mini,Convertible
+Nissan,Armada
+Nissan,Leaf
+Nissan,Micra
+Nissan,NV200
+Nissan,Xterra
+Porsche,Cayman
+Porsche,Macan
+Ram,Van
+Smart,Fortwo
+Subaru,BRZ
+Subaru,Legacy
+Tesla,Model S
+Volkswagen,CC
+Volkswagen,GTI
+Volkswagen,Golf Sportwagen
+Volvo,S60 2015.5
+Volvo,V60 2015.5
+Volvo,XC60 2015.5
+Acura,ILX
+Audi,S3
+Audi,S5
+Audi,TT
+BMW,Z4
+Buick,Envision
+Buick,Regal
+Chevrolet,Cruze Limited
+Chevrolet,Malibu Limited
+Chevrolet,Spark EV
+Fiat,500X
+Ford,Transit 150
+Honda,HR-V
+Infiniti,QX70
+Land Rover,LR4
+Lexus,GX460
+Lexus,RC-Series
+Lexus,RX450h
+Lincoln,MKZ
+Mazda,CX-3
+Mazda,CX-5 2016.5
+Mazda,MX5
+Mercedes-Benz,GLC-Class
+Mercedes-Benz,GLE-Class
+Mercedes-Benz,Metris
+Nissan,Maxima
+Nissan,NV 2500 Van
+Nissan,Titan XD
+Porsche,911
+Scion,FR-S
+Subaru,Crosstrek
+Tesla,Model X
+Toyota,Prius C
+Volkswagen,Golf R
+Volvo,S60
+Volvo,XC90
+Alfa Romeo,Giulia
+Audi,A7
+BMW,i3
+Cadillac,XT5
+Chevrolet,Bolt EV
+Chevrolet,Express
+Chrysler,Pacifica
+Fiat,124 Spider
+Ford,Transit 350
+Honda,Ridgeline
+Infiniti,Q60
+Infiniti,QX30
+Jaguar,F-Pace
+Jaguar,XE
+Jeep,Compass 2017.5
+Kia,Niro
+Land Rover,Discovery
+Lexus,ES350
+Lincoln,Continental
+Maserati,Levante
+Mazda,MX5 RF
+Mercedes-Benz,GLS-Class
+Mini,Clubman
+Nissan,Qashqai
+Ram,ProMaster City
+Toyota,86
+Toyota,Avalon
+Toyota,Corolla iM
+Toyota,Prius Prime
+Volkswagen,Golf AllTrack
+Volkswagen,e-Golf
+Volvo,S90
+Volvo,V60
+Volvo,V90
+Volvo,XC60
+Alfa Romeo,Stelvio
+Audi,RS 3
+Audi,TT RS
+BMW,X2
+Cadillac,CT6
+Ford,EcoSport
+Genesis,G80
+Genesis,G90
+Honda,Clarity
+Hyundai,Ioniq
+Hyundai,Kona
+Jaguar,E-Pace
+Jeep,Wrangler JK
+Jeep,Wrangler JL 2018.5
+Kia,Stinger
+Land Rover,Range Rover Velar
+Lexus,NX 300
+Lexus,RX350L
+Mercedes-Benz,SLC-Class
+Mercedes-Benz,Sprinter 2500
+Mitsubishi,Eclipse Cross
+Nissan,Kicks
+Porsche,718 Boxster
+Tesla,Model 3
+Toyota,C-HR
+Toyota,Prius
+Volkswagen,Atlas
+Audi,A8
+Audi,Q8
+Audi,RS 5
+Audi,e-tron
+BMW,X7
+Cadillac,XT4
+Chevrolet,Blazer
+Chevrolet,New Silverado 1500
+Chevrolet,Silverado LD 1500
+Ford,Ranger
+Ford,Transit 350HD
+GMC,New Sierra 1500
+GMC,Sierra Limited 1500
+Genesis,G70
+Honda,Insight
+Honda,Passport
+Hyundai,Kona EV
+Hyundai,Santa Fe
+Infiniti,Q70
+Lexus,UX250h
+Lincoln,Nautilus
+Mercedes-Benz,A-Class
+Mercedes-Benz,Sprinter 2500 Cargo
+Ram,1500 Classic
+Subaru,Ascent
+Toyota,Mirai
+Volkswagen,Arteon
+Volvo,XC40
+Cadillac,CT4
+Cadillac,CT5
+Cadillac,XT6
+Hyundai,Palisade
+Hyundai,Venue
+Jaguar,I-Pace
+Jeep,Gladiator
+Kia,Forte5
+Kia,Telluride
+Land Rover,Defender 110
+Lincoln,Aviator
+Lincoln,Corsair
+Mazda,CX-30
+Mercedes-Benz,GLB-Class
+Subaru,WRX
+Tesla,Model Y
+Toyota,GR Supra
+Volkswagen,Atlas Cross Sport
+Chevrolet,Trailblazer
+Chrysler,Grand Caravan
+Ford,Bronco
+Ford,Bronco Sport
+Ford,Mustang MACH-E
+Genesis,GV80
+Jeep,Grand Cherokee L
+Kia,K5
+Kia,Seltos
+Lexus,ES250
+Lexus,UX-Series
+Mercedes-Benz,Sprinter 3500XD
+Polestar,Polestar 2
+Toyota,Rav4 Prime
+Volkswagen,ID.4
+Audi,Q4 e-tron
+BMW,i4
+BMW,iX
+Chevrolet,Bolt EUV
+Chevrolet,Silverado 1500 LTD
+Ford,F150 Lightning
+Ford,Maverick
+GMC,Sierra 1500 LTD
+Genesis,GV70
+Hyundai,Ioniq 5
+Hyundai,Santa Cruz
+Infiniti,QX55
+Jeep,Grand Cherokee WK
+Jeep,Grand Wagoneer
+Jeep,Wagoneer
+Kia,Carnival
+Kia,EV6
+Lexus,NX-Series
+Mazda,MX-30
+Mercedes-Benz,Sprinter 2500 Crew
+Mercedes-Benz,Sprinter 3500 Cargo
+Toyota,Corolla Cross
+Volkswagen,Taos
+Acura,Integra
+Alfa Romeo,Tonale
+Audi,TTS
+BMW,M2
+Dodge,Hornet
+Ford,E-Transit 350
+Genesis,GV60
+Hyundai,Ioniq 6
+Jeep,Wagoneer L
+Land Rover,Defender 90
+Lexus,RX350h
+Lexus,RX500h
+Maserati,Grecale
+Mazda,CX-50
+Mercedes-Benz,EQB
+Nissan,Ariya
+Nissan,Z
+Porsche,718 Cayman
+Rivian,R1T
+Subaru,Solterra
+Toyota,Crown
+Toyota,GR Corolla
+Toyota,GR86
+Toyota,bZ4X
+Volvo,C40
+Audi,A4 Allroad
+Audi,Q8 e-tron
+BMW,M3
+BMW,i5
+Buick,Encore GX
+Buick,Envista
+Cadillac,Lyriq
+Chevrolet,Blazer EV
+Chevrolet,Silverado EV
+Ford,Commercial Vans
+Ford,F450 S/D
+Kia,EV9
+Lexus,ES-Series
+Lexus,RX-Series
+Lexus,TX-Series
+Mazda,CX-90
+Mercedes-Benz,GLB
+Mercedes-Benz,GLC
+Mini,Cooper
+Mini,Cooper Countryman
+Toyota,Grand Highlander
+Toyota,Land Cruiser
